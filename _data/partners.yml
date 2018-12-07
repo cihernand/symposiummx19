@@ -1,0 +1,8 @@
+-
+  group: "Co-host"
+  elements:
+    - {name: "University of Cambridge", description: "University of Cambridge", link: "https://www.cam.ac.uk/", imageUrl: "camuni.png"}
+-
+  group: "General sponsor"
+  elements:
+    - {name: "CONACYT", description: "Conacyt", link: "www.conacyt.gob.mx", imageUrl: "conacyt.png"}
