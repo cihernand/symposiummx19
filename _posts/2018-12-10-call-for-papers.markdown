@@ -2,6 +2,7 @@
 layout: post
 title:  "Call for Papers"
 date:   2018-12-10 09:00:00
+color: "#EBEAEA"
 isStaticPost: false
 ---
 
