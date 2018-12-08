@@ -1,7 +1,7 @@
 -
   id: "0"
   name: "Jessica"
-  surname: "Fernández"
+  surname: "Fernandez de Lara"
   company: "Centre of Latin American Studies, University of Cambridge"
   title: "Organising Committee"
   thumbnailUrl: jessica_fernandez.jpg
@@ -33,6 +33,17 @@
     - {name: "email", link: "mailto:pv296@cam.ac.uk"}
 -
   id: "3"
+  name: "Ana L."
+  surname: "Trigo"
+  company: "Faculty of Education, University of Cambridge"
+  title: "Logistics"
+  thumbnailUrl: ana_trigo.jpg
+  team: true
+  bio: "Hi, my name is Ana Laura, I was born in Mexico City and lived there until I decided to move to Cambridge (already two years ago!). I studied Psychology in UNAM and I was mainly interested in learning about Neuropsychology and the social learning of children. I was part of different research groups in UNAM where I worked with young people with autism and investigated productive social interactions between teachers and students. The latter gave me the opportunity of collaborating with academics from the University of Cambridge which, later on, inspired me to study an MPhil in Psychology and Education in their exceptional university. Now, I am doing a PhD in Education in the University of Cambridge, investigating an adjusted way of teaching children with autism in primary schools. I want to find out more about how the classroom dialogue can be adjusted to the needs of these children and provide opportunities for their voices to be heard. Besides doing research, I love singing and I am a big fan of musical theatre. I seize every opportunity I have to sing with friends and family!  I am involved in the logistics of the symposium, looking for great places in the University that can host the activities of the event and making sure that it runs smoothly. If you have any suggestions or questions, you can contact me at alt56@cam.ac.uk. I am excited to be part of the organizing committee of the symposium and help building stronger relationships between Mexican researchers in the UK."
+  social:
+    - {name: "email", link: "mailto:alt56@cam.ac.uk"}
+-
+  id: "4"
   name: "Masami"
   surname: "Ando Kuri"
   company: "Cancer Research UK Cambridge Institute, University of Cambridge"
@@ -43,7 +54,7 @@
   social:
     - {name: "email", link: "mailto:ma759@cam.ac.uk"}
 -
-  id: "4"
+  id: "5"
   name: "Filo"
   surname: "de la Llata"
   company: "ICE, Madingley Hall, University of Cambridge"
@@ -54,27 +65,16 @@
   social:
     - {name: "email", link: "mailto:filo@coapa.co"}
 -
-  id: "5"
-  name: "Ana Laura"
-  surname: "Trigo Clapes"
-  company: "Faculty of Education, University of Cambridge"
-  title: "Logistics"
-  thumbnailUrl: ana_trigo.jpg
-  team: true
-  bio: "Hi, my name is Ana Laura, I was born in Mexico City and lived there until I decided to move to Cambridge (already two years ago!). I studied Psychology in UNAM and I was mainly interested in learning about Neuropsychology and the social learning of children. I was part of different research groups in UNAM where I worked with young people with autism and investigated productive social interactions between teachers and students. The latter gave me the opportunity of collaborating with academics from the University of Cambridge which, later on, inspired me to study an MPhil in Psychology and Education in their exceptional university. Now, I am doing a PhD in Education in the University of Cambridge, investigating an adjusted way of teaching children with autism in primary schools. I want to find out more about how the classroom dialogue can be adjusted to the needs of these children and provide opportunities for their voices to be heard. Besides doing research, I love singing and I am a big fan of musical theatre. I seize every opportunity I have to sing with friends and family!  I am involved in the logistics of the symposium, looking for great places in the University that can host the activities of the event and making sure that it runs smoothly. If you have any suggestions or questions, you can contact me at alt56@cam.ac.uk. I am excited to be part of the organizing committee of the symposium and help building stronger relationships between Mexican researchers in the UK."
-  social:
-    - {name: "email", link: "mailto:alt56@cam.ac.uk"}
--
   id: "6"
-  name: "Claudia"
-  surname: "Hernández"
-  company: "European Bioinformatics Institute, University of Cambridge"
-  title: "Website & Communications "
-  thumbnailUrl: clau_castillo.jpg
+  name: "Alex"
+  surname: "Guizar"
+  company: "Cambridge Conservation Research Institute, University of Cambridge"
+  title: "IT"
+  thumbnailUrl: alex_guizar.jpg
   team: true
-  bio: "My interest to understand how cells make decisions motivated me to start my PhD in Bioinformatics working with protein phosphorylation. During this journey, I study how kinases sense and process biological information to regulate cellular functions, to achieve this task I use statistical models. Before my PhD, I obtained my bachelor degree on Genomic Sciences at the National Autonomous University of Mexico. I enjoy reading texts that cover discussions of the implications of science in our lives and I also like reading poetry, novels, and discussions about the evolution of the Internet. The digital world has had a strong influence in my education and I desire to contribute with projects to make science and knowledge more accessible, and create communities that empower people respecting their rights to navigate an inclusive and decentralized internet. My hobbies include to attend film festivals, travel, make parties, talk to people, read about random topics, and dance. The multicultural community of Cambridge and its academic diversity keeps me learning all the time, so it is an honor to work with other mexican and international students to organize this symposium. I hope we get lots of inspiration and contribute to face the challenges of the present and the future. I will be helping on the digital tasks of the project. Hope you enjoy navigating our website!"
+  bio: "I am broadly interested in areas related to biodiversity conservation, climate change and sustainability. My PhD focuses on advancing strategies for conserving forests, and developing remote sensing approaches for improved carbon and biodiversity monitoring."
   social:
-    - {name: "email", link: "mailto:kurupaclau@gmail.com"}
+    - {name: "github", link: "https://github.com/guizar"}
 -
   id: "7"
   name: "Sarah"
@@ -89,7 +89,7 @@
 -
   id: "8"
   name: "Iván"
-  surname: "Imaz Rosshandler"
+  surname: "Imaz"
   company: "Stem Cell Institute, University of Cambridge"
   title: "Academic and Keynote Speakers"
   thumbnailUrl: ivan_imaz.jpg
@@ -99,15 +99,15 @@
     - {name: "email", link: "mailto:ii236@cam.ac.uk"}
 -
   id: "9"
-  name: "Ana Luisa"
-  surname: "Rubio Jiménez"
-  company: "Faculty of Education, University of Cambridge"
-  title: "Academic and Keynote Speakers"
-  thumbnailUrl: ana_rubio.jpg
+  name: "Claudia"
+  surname: "Hernández"
+  company: "European Bioinformatics Institute, University of Cambridge"
+  title: "Website & Communications "
+  thumbnailUrl: clau_castillo.jpg
   team: true
-  bio: "Hello everyone, my name is Ana I was born in Veracruz but have lived my whole life in the hectic but beautiful Mexico City. I studied Psychology in the Faculty of Psychology, UNAM where I developed my interests in inclusive education and dialogic pedagogies. As a student in the UNAM, I had the opportunity to meet and work with colleagues from the Faculty of Education of the University of Cambridge. This collaboration encouraged me to come to Cambridge to pursue an MPhil. Currently, I hold an MPhil degree in Education from the University of Cambridge and I am now pursuing a PhD degree in Education. I work with people with intellectual disabilities and my professional aspirations are to improve the quality of the education they receive, as well as their opportunities for personal and social development. I sing and dance as a hobby and I am a new lover of Isabel Allende's literature. My interest in working together with other Mexicans who are in Cambridge motivated me to be part of the organising committee of the Symposium. In collaboration with Aracely, Fernando León and Iván we form the subcommittee of the Keynote speakers. We look forward to welcoming you to Cambridge!"
+  bio: "My interest to understand how cells make decisions motivated me to start my PhD in Bioinformatics working with protein phosphorylation. During this journey, I study how kinases sense and process biological information to regulate cellular functions, to achieve this task I use statistical models. Before my PhD, I obtained my bachelor degree on Genomic Sciences at the National Autonomous University of Mexico. I enjoy reading texts that cover discussions of the implications of science in our lives and I also like reading poetry, novels, and discussions about the evolution of the Internet. The digital world has had a strong influence in my education and I desire to contribute with projects to make science and knowledge more accessible, and create communities that empower people respecting their rights to navigate an inclusive and decentralized internet. My hobbies include to attend film festivals, travel, make parties, talk to people, read about random topics, and dance. The multicultural community of Cambridge and its academic diversity keeps me learning all the time, so it is an honor to work with other mexican and international students to organize this symposium. I hope we get lots of inspiration and contribute to face the challenges of the present and the future. I will be helping on the digital tasks of the project. Hope you enjoy navigating our website!"
   social:
-    - {name: "email", link: "mailto:alr50@cam.ac.uk"}
+    - {name: "email", link: "mailto:kurupaclau@gmail.com"}
 -
   id: "10"
   name: "Eddie"
@@ -122,7 +122,7 @@
 -
   id: "11"
   name: "Rodrigo"
-  surname: "Arteaga Rojas"
+  surname: "Arteaga"
   company: "Department of Sociology, University of Cambridge"
   title: "Academic and Student Affairs"
   thumbnailUrl: rodrigo_arteaga.jpg
@@ -132,15 +132,15 @@
     - {name: "email", link: "mailto:rda29@cam.ac.uk"}
 -
   id: "12"
-  name: "Alex"
-  surname: "Guizar"
-  company: "Cambridge Conservation Research Institute, University of Cambridge"
-  title: "IT"
-  thumbnailUrl: alex_guizar.jpg
+  name: "Ana L."
+  surname: "Rubio"
+  company: "Faculty of Education, University of Cambridge"
+  title: "Academic and Keynote Speakers"
+  thumbnailUrl: ana_rubio.jpg
   team: true
-  bio: "I am broadly interested in areas related to biodiversity conservation, climate change and sustainability. My PhD focuses on advancing strategies for conserving forests, and developing remote sensing approaches for improved carbon and biodiversity monitoring."
+  bio: "Hello everyone, my name is Ana I was born in Veracruz but have lived my whole life in the hectic but beautiful Mexico City. I studied Psychology in the Faculty of Psychology, UNAM where I developed my interests in inclusive education and dialogic pedagogies. As a student in the UNAM, I had the opportunity to meet and work with colleagues from the Faculty of Education of the University of Cambridge. This collaboration encouraged me to come to Cambridge to pursue an MPhil. Currently, I hold an MPhil degree in Education from the University of Cambridge and I am now pursuing a PhD degree in Education. I work with people with intellectual disabilities and my professional aspirations are to improve the quality of the education they receive, as well as their opportunities for personal and social development. I sing and dance as a hobby and I am a new lover of Isabel Allende's literature. My interest in working together with other Mexicans who are in Cambridge motivated me to be part of the organising committee of the Symposium. In collaboration with Aracely, Fernando León and Iván we form the subcommittee of the Keynote speakers. We look forward to welcoming you to Cambridge!"
   social:
-    - {name: "github", link: "https://github.com/guizar"}
+    - {name: "email", link: "mailto:alr50@cam.ac.uk"}
 # -
 #   id: "13"
 #   name: "Laura"
