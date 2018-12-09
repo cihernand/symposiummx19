@@ -65,6 +65,7 @@ heroButtons:
  # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
+aboutImage: "mexsocuk-logo.png"
 aboutTitle: "XVII Symposium of Mexican Studies and Students in the UK"
 aboutText: "<p align='left'>The Symposium of Mexican Students and Studies in the United Kingdom is an annual multidisciplinary meeting that provides a unique forum to present current academic work, engage in pertinent debates, and foster novel perspectives and collaborations.</p><p align='left'>Throughout sixteen years, the symposium has become the most relevant academic event in the United Kingdom for students, academics and practitioners interested in topics related to Mexico. This year's edition is co-hosted by the Cambridge University Mexican Students Society, at the University of Cambridge, with the support of the Mexican Students Society in the United Kingdom (MexSocUK).</p><p align='left'>In broad terms, the scope of the symposium encompasses six areas:</p><ul style='text-align:left'><li>Physical Sciences (Mathematics, Physics, Chemistry, Astronomy)</li><li>Biological Sciences (Medicine, Biology, Psychology, Genomics)</li><li>Engineering and Technology (Materials, Construction, Aeronautics, Computer Science and Technology)</li><li>Social Sciences (Education, Economics, Business and Management, Political Science, History, Law)</li><li>Arts &amp; Humanities (Art, Music, Literature, Architecture, Religion, Philosophy)</li><li>Environmental Sciences/Energy and Sustainability (Energy Transition, Ecology, Conservation, Climate Change)</li></ul><p align='left'>During three days (26th - 28th June 2019), the symposium will offer a remarkable occasion to attend keynote presentations from outstanding leaders in relevant fields. At the same time, the symposium will offer a unique opportunity to actively participate and engage in academic paper presentations, lightning talk sessions and poster sessions.</p><p align='left'>We very much look forward to welcoming you in Cambridge!</p>"
 # aboutBlock:
@@ -204,7 +205,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: " "
-aboutUs: "The Cambridge Organising Committee is composed mainly of Cambridge  Graduate Students and Mexicans living in Cambridge who share a diverse  disciplinary background and are committed to making a positive and  significant contribution to Mexico. If you have any questions or just 
+aboutUs: "The Cambridge Organising Committee is composed mainly of Cambridge  Graduate Students and Mexicans living in Cambridge who share a diverse  disciplinary background and are committed to making a positive and  significant contribution to Mexico. If you have any questions or just
 want to chat with any of us, please feel free to get in touch!"
 
 # Logistics Find Way Block
