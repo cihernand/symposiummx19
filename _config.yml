@@ -14,10 +14,10 @@ title: "XVII Symposium of Mexican Studies and Students in the UK"
 email: "symposiummx2019@gmail.com"
 description: "Challenging ideas about Mexico and the World"
 baseurl: "/"
-url: "https://guizar.github.io/mxsymp2019/"
+url: "https://guizar.github.io/symposiummx19/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-112761340-3"
-googleAnalyticsSiteUrl: "https://guizar.github.io/symp19"
+googleAnalyticsSiteUrl: "https://guizar.github.io/symposiummx19"
 siteVerification: "YnnIH0uKJBNm5TYdMPabnIn9pyh0opd4hgRw-Y_BR50"
 
 # Organizer Info
@@ -122,7 +122,7 @@ twitterHashTag: "symposiummx2019"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organising Committee"
+organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
