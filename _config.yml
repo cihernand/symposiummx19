@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "XVII Symposium of Mexican Studies and Students in the UK"
+title: "XVII Symposium of Mexican Studies and Students in the UK..."
 email: "symposiummx2019@gmail.com"
 description: "Challenging ideas about Mexico and the World"
 baseurl: "/"
