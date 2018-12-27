@@ -3,6 +3,8 @@ Website for the XVII Symposium of Mexican Studies and Students in the UK.
 
 https://guizar.github.io/symposiummx19/
 
+Testing development:
+https://cihernand.github.io/symposiummx19/
 
 The site is built on [Jekyll](http://jekyllrb.com/) and
 was adapted from the [Project Zeppelin / GDG DevFest 2014](https://github.com/gdg-x/zeppelin/tree/gh-pages) template. Please refer to the site for project documentation and specifics for setting up  this template
