@@ -1,5 +1,5 @@
 ---
-title:  "Watches"
+title:  "Culture and Arts"
 subtitle: "The Bigger the better?"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
